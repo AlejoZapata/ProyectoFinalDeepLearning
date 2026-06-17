@@ -1,3 +1,3 @@
 # ProyectoFinalDeepLearning
 
-link codigo: https://colab.research.google.com/drive/1PnP4JnzpVNKpK9XFQE-IWU_HIG4TqEi7?usp=sharing
+link codigo: https://colab.research.google.com/drive/1CIKRkKDiQGE7fad9zX7Ouu3QC7kfX1Pr?usp=sharing
